@@ -1,0 +1,6 @@
+﻿  SQLyacc.flex.cpp
+C:\Users\10703\Desktop\Principles of compilation\Grammatical analysis\SQLyacc.flex.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  SQLyacc.tab.cpp
+C:\Users\10703\Desktop\Principles of compilation\Grammatical analysis\SQLyacc.tab.cpp(1173,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  Generating Code...
+  Grammatical analysis.vcxproj -> C:\Users\10703\Desktop\Principles of compilation\Grammatical analysis\Debug\Grammatical analysis.exe

@@ -1,0 +1,3 @@
+C:\Users\10703\Desktop\编译原理上机\lexical analysis\Debug\lexical analysis.exe
+C:\Users\10703\Desktop\编译原理上机\lexical analysis\Debug\lexical analysis.pdb
+C:\Users\10703\Desktop\Principles of compilation\lexical analysis\Debug\lexical analysis.exe
